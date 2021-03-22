@@ -1,4 +1,4 @@
-Dishekel Core integration/staging tree
+Dishekel Core
 =====================================
 
 
